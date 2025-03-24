@@ -16,7 +16,7 @@ This repository contains a **Dockerized Streamlit application** for running an M
 ## 🛠️ Setup & Installation
 ### 🔹 Clone the Repository
 ```bash
- git clone https://github.com/BhavyaDhimxn/container-experiments.git
+ git clone https://github.com/ParthShxrma/Container-Experiments
  cd Docker_Practices
 ```
 
